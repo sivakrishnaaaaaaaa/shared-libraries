@@ -1,4 +1,4 @@
-def add (i,j) { 
+def add(i,j) { 
   result =i+j
   echo "sum of ${i} and ${j} is ${result}"
 }
